@@ -1,0 +1,5 @@
+{
+  "name": "Market Trend Analyzer",
+  "description": "An AI-powered application that provides detailed market trend analysis for any given industry or topic. It leverages the Gemini API to generate insights on current trends, opportunities, threats, key players, and future outlook.",
+  "requestFramePermissions": []
+}
