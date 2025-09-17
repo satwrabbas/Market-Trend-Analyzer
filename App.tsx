@@ -37,7 +37,7 @@ const enStrings: Translations = {
   example2: "Sustainable Fashion",
   example3: "Electric Vehicles",
   example4: "Quantum Computing",
-  footer: "Powered by Google Gemini API"
+  footer: "Created by SATWR"
 };
 
 const arStrings: Translations = {
@@ -69,7 +69,7 @@ const arStrings: Translations = {
   example2: "الأزياء المستدامة",
   example3: "السيارات الكهربائية",
   example4: "الحوسبة الكمومية",
-  footer: "مدعوم بواسطة Google Gemini API"
+  footer: "المطور SATWR"
 };
 
 const translations = {
